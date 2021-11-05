@@ -28,8 +28,8 @@ main {
     padding: 20px 0px;
 
     /*alinhar fotos*/
-    width:800px;
-    height:300px;
+    /* width:800px;
+    height:300px; */
     object-fit:cover;
 }
 
